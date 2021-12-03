@@ -18,7 +18,7 @@ The
 
 ###Deliverable 1: Retrieve Weather Data
 
- <img src = "Resources/citites_data_frame.png" width= "400" >
+ <img src = "Resources/citites_data_frame.png" width= "600" >
 
 A data frame was generated with 688 cities where we can see data such as
 
@@ -35,7 +35,7 @@ A data frame was generated with 688 cities where we can see data such as
 
 ### Deliverable 2 Create a Customer Travel Destinations Map
 
-  <img src = "Resources/selected_cities.png" width= "400" >
+  <img src = "Resources/selected_cities.png" width= "600" >
   
 I used input statements to retrieve customer weather preferences, 
 then use those preferences to identify potential travel destinations and nearby hotels. 
