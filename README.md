@@ -6,7 +6,7 @@
 This is the challenge activity for the module 7 of the Data Analytics and Visualization Boot Camp of the university of Texas at Austin.
 The main idea is to apply the learned skills of Application Programming Interface (APIs)
 
-<img src = "Resources/Intro.png" width= "400" >
+<img src = " Resources/Intro.png" width= "400" >
 
 The project  was based on data of that was obtained  using APIs from Open Weather ang Google Maps
 The objectives for this challenge were: to get weather conditions of some latitudes and longitudes that were generated randomly, get the weather conditions and the nearest hotel.
