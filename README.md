@@ -18,7 +18,7 @@ The
 
 ###Deliverable 1: Retrieve Weather Data
 
- <img src = "Resources/cities_data_frame.png" width= "400" >
+ <img src = "Resources/citites_data_frame.png" width= "400" >
 
 A data frame was generated with 688 cities where we can see data such as
 
