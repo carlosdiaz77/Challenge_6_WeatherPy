@@ -41,7 +41,7 @@ I used input statements to retrieve customer weather preferences,
 then use those preferences to identify potential travel destinations and nearby hotels. 
 Then, show those destinations on a marker layer map with pop-up markers.
 
-<img src = "Resources/WeatherPy_vacation_map.png" width= "400" >
+<img src = "Resources/WeatherPy_vacation_map.png" width= "600" >
 ### Deliverable 3 Create a Travel Itinerary Map
 I used the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations.
 Then, create a marker layer map with a pop-up marker for each city on the itinerary.
